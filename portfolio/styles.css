@@ -1,0 +1,39 @@
+h1 {
+  font-family: 'Zilla Slab', serif;
+  text-align: left;
+  font-size: 2em;
+}
+
+p {
+  font-family: 'Zilla Slab', serif;
+  text-align: left;
+}
+
+body {
+  background-color: #ADD8E6;
+}
+
+#jarrensj {
+
+}
+
+.project {
+  border-style: dotted;
+}
+.container {
+  margin: 0 auto;
+}
+
+.title {
+  font-family: 'Zilla Slab', serif;
+  text-align: left;
+  font-size: 1.5em;
+}
+
+.date {
+  font-size: .70em;
+}
+
+.short-description {
+  font-size: .75em;
+}
